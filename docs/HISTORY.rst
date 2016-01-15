@@ -1,6 +1,11 @@
 Changelog
 =========
 
+3.1.10 (2016-01-15)
+-------------------
+
+* Following the updated jQuery JavaScript
+
 3.1.9 (2015-12-09)
 ------------------
 
