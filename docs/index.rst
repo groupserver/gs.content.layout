@@ -23,3 +23,17 @@ Indices and tables
 * :ref:`search`
 
 .. _GroupServer: http://groupserver.org/
+
+
+Resources
+=========
+
+- Documentation:
+  http://groupserver.rtfd.org/projects/gscontentlayout/
+- Code repository:
+  https://github.com/groupserver/gs.content.layout
+- Translations:
+  https://www.transifex.com/projects/p/gs-content-layout/
+- Questions and comments to
+  http://groupserver.org/groups/development
+- Report bugs at https://redmine.iopen.net/projects/groupserver

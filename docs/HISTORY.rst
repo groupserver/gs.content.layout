@@ -1,6 +1,13 @@
 Changelog
 =========
 
+3.1.11 (2016-01-25)
+-------------------
+
+* Following the updated JavaScript Loader code
+* Following the updated *disclosure button* JavaScript code
+* Following the updated *submit button* JavaScript code
+
 3.1.10 (2016-01-15)
 -------------------
 
