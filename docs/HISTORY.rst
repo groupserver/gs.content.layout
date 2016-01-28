@@ -1,12 +1,24 @@
 Changelog
 =========
 
+3.1.12 (2016-01-28)
+------------------
+
+* Following the changes to the global CSS
+
 3.1.11 (2016-01-25)
 -------------------
 
-* Following the updated JavaScript Loader code
-* Following the updated *disclosure button* JavaScript code
-* Following the updated *submit button* JavaScript code
+* Following the update to `gs.content.js.disclosure`_
+* Following the update to `gs.content.js.loader`_
+* Following the update to ` `gs.content.js.submit`_
+
+.. _gs.content.js.disclosure:
+   https://github.com/groupserver/gs.content.js.disclosure
+.. _gs.content.js.loader:
+   https://github.com/groupserver/gs.content.js.loader
+.. _gs.content.js.submit:
+   https://github.com/groupserver/gs.content.js.submit
 
 3.1.10 (2016-01-15)
 -------------------
