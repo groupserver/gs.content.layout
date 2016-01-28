@@ -63,7 +63,7 @@ setup(
         'zope.tal',  # For tal: and metal: attributes
         'zope.tales',  # For what goes in the tal: and metal: attributes
         'AccessControl',  # For granting access to the message factory.
-        'gs.content.css',  # For the CSS resource
+        'gs.content.css[zope]',  # For the CSS resource
         'gs.content.js.bootstrap[zope]',  # For the Bootstrap resource
         'gs.content.js.disclosure[zope]',  # For the disclosure resource
         'gs.content.js.jquery.base[zope]',  # For the jQuery resource
